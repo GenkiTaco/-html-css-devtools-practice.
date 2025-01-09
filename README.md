@@ -1,2 +1,2 @@
-# -html-css-devtools-practice.
-Lesson 1 CodeLabs
+# -html-css-devtools-practice
+Practice repository for HTML, CSS, and DevTools
